@@ -1,7 +1,7 @@
 package extraCredit3;
 
 import java.util.Arrays;
-
+// Array concept is enough here
 public class IdentifyMaxValue {	 
 	
 	public void thirdMax(int[] listOfValue)
